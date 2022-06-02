@@ -8,7 +8,7 @@ for their client IG account in an automated fashion.
 
 ## Preview
 
-![preview](https://user-images.githubusercontent.com/4502089/157253215-c7f7dcd5-0e15-4227-8f8f-739fdf2ab75e.PNG)
+![preview](https://user-images.githubusercontent.com/74083216/171606565-b5b630bc-8a2f-49ba-8605-45bfc85a69ff.png)
 
 ## Quick-start
 
